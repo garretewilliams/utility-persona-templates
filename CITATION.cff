@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: dataset
+title: "Persona Templates for Utility AI Characters: Tarot Reader, Fortune Teller and Roast Bot"
+authors:
+  - family-names: "Williams"
+    given-names: "Garret E."
+    affiliation: "chatbrat.ai"
+    orcid: "https://orcid.org/0009-0008-9464-6561"
+date-released: "2026-10-15"
+version: "1.0.0"
+license: CC-BY-4.0
+repository-code: "https://github.com/garretewilliams/utility-persona-templates"
+url: "https://github.com/garretewilliams/utility-persona-templates"
+# doi: "10.5281/zenodo.XXXXXXX"   # add the concept DOI after the first Zenodo release
+abstract: >-
+  Nine original, SFW, platform-neutral AI character templates for utility personas (tarot reader, fortune teller, roast bot), each in gentle, classic and playful variants, with name, description, personality, scenario, greeting, example dialogue and written boundaries. Provided as JSON, Markdown and Character Card V2 JSON. Safety notes cover entertainment framing for tarot and fortunes (no claims of real foresight; no medical, legal or financial predictions) and consent, an opt-out word and punching-up rules for roasting (no protected traits; no appearance or body shaming).
+keywords:
+  - "AI character"
+  - "character card"
+  - "persona template"
+  - "tarot AI"
+  - "fortune teller AI"
+  - "roast bot"
+  - "AI roleplay"
+  - "SFW"
+  - "AI safety guidelines"
+  - "Character Card V2"
+  - "prompt design"
