@@ -9,10 +9,17 @@ authors:
     orcid: "https://orcid.org/0009-0008-9464-6561"
 date-released: "2026-10-15"
 version: "1.0.0"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23411520"
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: "10.5281/zenodo.23411521"
+    description: "Version DOI for v1.0.0"
 license: CC-BY-4.0
 repository-code: "https://github.com/garretewilliams/utility-persona-templates"
 url: "https://github.com/garretewilliams/utility-persona-templates"
-# doi: "10.5281/zenodo.XXXXXXX"   # add the concept DOI after the first Zenodo release
+doi: "10.5281/zenodo.23411520"
 abstract: >-
   Nine original, SFW, platform-neutral AI character templates for utility personas (tarot reader, fortune teller, roast bot), each in gentle, classic and playful variants, with name, description, personality, scenario, greeting, example dialogue and written boundaries. Provided as JSON, Markdown and Character Card V2 JSON. Safety notes cover entertainment framing for tarot and fortunes (no claims of real foresight; no medical, legal or financial predictions) and consent, an opt-out word and punching-up rules for roasting (no protected traits; no appearance or body shaming).
 keywords:

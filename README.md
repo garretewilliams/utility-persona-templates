@@ -49,4 +49,6 @@ Every template carries its rules in `boundaries`. Full rules and the reasoning a
 
 ## How to cite
 
-Garret E. Williams (2026). *Persona Templates for Utility AI Characters: Tarot Reader, Fortune Teller and Roast Bot* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+Garret E. Williams (2026). *Persona Templates for Utility AI Characters: Tarot Reader, Fortune Teller and Roast Bot* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23411520
+
+Concept DOI (all versions, resolves to the latest): [10.5281/zenodo.23411520](https://doi.org/10.5281/zenodo.23411520) · v1.0.0 version DOI: [10.5281/zenodo.23411521](https://doi.org/10.5281/zenodo.23411521)
